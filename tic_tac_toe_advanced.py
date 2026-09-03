@@ -365,4 +365,4 @@ class AdvancedTicTacToe:
 
 # ---------------------------- Main ----------------------------
 if __name__ == "__main__":
-    game = AdvancedTicTacToe()
+    game = AdvancedTicTacToe() 

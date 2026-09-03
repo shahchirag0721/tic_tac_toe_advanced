@@ -1,1 +1,2 @@
-# tic_tac_toe_advanced
+# tic_tac_toe_advanced 
+Author ="Shah Chirag"
